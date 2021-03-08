@@ -1,7 +1,8 @@
-# GAIH Student Repo Example
+# GAIH Student Repo
 ![](img/newlogo.png)
 
-**Course Date:** 08.03.2021 
+**Course Date:** 08.03.2021
+
 **Name:** Furkan  
 **Surname:** AKKULAK  
 **Email:** akkulak.furkan26@gmail.com  
