@@ -7,4 +7,4 @@ print("Sort Merge List: ", MergeList)
 for i in range (len(MergeList)):
     MergeList[i]*=2
 print("Merge List * 2: ", MergeList)
-print("Type: ",type(MergeList))
+print("Data Type: ",type(MergeList))
