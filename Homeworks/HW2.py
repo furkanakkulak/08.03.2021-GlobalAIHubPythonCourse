@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 CV1 = {"Ad":"Furkan","Soyad":"AKKULAK","Cinsiyet":"Erkek","MD":"Bekar","DYT":"Aydın/Nazilli - 06/07/2000","Adres":"Eskişehir","Mail":"akkulak.furkan26@gmail.com","Telefon":"5051233212","EB":"Burdur Mehmet Akif Ersoy Üniversitesi","Is":"Öğrenci","Beceri":"PHP, C#, C++, Python","INGS":"B1","BB":"Orta Düzey Office ve Programlama","Referans":"-"}
 CV2 = {"Ad":"Onur","Soyad":"SEVER","Cinsiyet":"Erkek","MD":"Bekar","DYT":"Adana/Kozan - 22/02/2000","Adres":"Eskişehir","Mail":"redkulus26@hotmail.com","Telefon":"5061233212","EB":"Düzce Üniversitesi","Is":"Öğrenci","Beceri":"C++, Java, Python, Blender, Resim","INGS":"A2","BB":"Orta Düzey Office ve Programlama","Referans":"-"}
 CV3 = {"Ad":"Ahmet Murat","Soyad":"TÜRKER","Cinsiyet":"Erkek","MD":"Bekar","DYT":"Eskişehir/Merkez - 19/10/2000","Adres":"Eskişehir","Mail":"muratturker2k@gmail.com","Telefon":"5071233212","EB":"Dumlupınar Üniversitesi","Is":"Öğrenci","Beceri":"Python,Resim,AutoCAD,SolidWorks, Catia","INGS":"B1","BB":"Orta Düzey Office ve Başlangıç Düzeyi Programlama","Referans":"-"}
@@ -88,16 +82,3 @@ for i in range (6):
         print("|  Referans:", CV5["Referans"],"                                                             |")
     else:
         print("5 Tane CV Bulundu")
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
