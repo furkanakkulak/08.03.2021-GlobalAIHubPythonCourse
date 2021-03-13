@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 ogrenciler={}
 for i in range(1,3):
     print("")
@@ -17,10 +11,6 @@ for i in range(1,3):
     ogrenciler[i] = {"Ad Soyad": adsoyad, "Ara Sınav": str(asinav),"Proje Notu":str(pnotu),"Final Notu":str(fnotu),"Geçme Notu":str(gnotu)}
 sirali_ogrenciler = sorted(ogrenciler.items(), key=lambda x: float(x[1]["Geçme Notu"]),reverse=True)
 print(sirali_ogrenciler)
-
-
-# In[ ]:
-
 
 
 
